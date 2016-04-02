@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/azakharo/testlib.git
 	branch = master
-	commit = d811be0c5a9506e3eece8d208e5b03c0ddada4c6
-	parent = a414206227476e43a01f1479546972d16093c273
+	commit = 3c78ff18fc00096f70659b083d34c9e9faee497a
+	parent = 2a784e13c36b36290448e03cf54ddf973de4d8ab
 	cmdver = 0.3.0
